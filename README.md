@@ -8,7 +8,7 @@
 - [![Telegram Contact](https://badges.aleen42.com/src/telegram.svg)](https://t.me/AlphaTm_Pm_Bot)
 
 # DEPLOY TO HEROKU
-* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+* [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lakshan17/Pm-Chat-bot)
 <br><br>
 
 </details>
